@@ -90,7 +90,7 @@ body
 .container .box:nth-child(3):before,
 .container .box:nth-child(3):after
 {
-  background: linear-gradient(315deg, #4dff03, #00d0ff)
+    background: linear-gradient(315deg, #339e07, #13f4f4);
 }
 
 .container .box span
